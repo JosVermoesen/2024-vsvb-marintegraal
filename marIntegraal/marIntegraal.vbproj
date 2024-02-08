@@ -14,7 +14,7 @@
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <TargetFrameworkProfile />
-    <PublishUrl>C:\Users\Jos\Source\Repos\dotnet\vsvb-marintegraal\Publish\</PublishUrl>
+    <PublishUrl>C:\Users\Jos\source\repos\JosVermoesen\2024-vsvb-marintegraal\Publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -31,7 +31,7 @@
     <SuiteName>marIntegraal Studio</SuiteName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>29</ApplicationRevision>
+    <ApplicationRevision>30</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
